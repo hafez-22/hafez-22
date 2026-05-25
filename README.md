@@ -16,13 +16,6 @@ I'm a passionate Finance and Data Analytics professional with 1.5 years of exper
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-</div>
-
----
 
 ### 🌱 Currently
 
@@ -40,9 +33,6 @@ I'm a passionate Finance and Data Analytics professional with 1.5 years of exper
 
 </div>
 
----
-
----
 
 ---
 
