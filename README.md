@@ -4,7 +4,7 @@
 
 ### Data Engineer | Data Analyst | Egypt
 
-I'm a passionate Finance and Data Analytics professional with 1.5 years of experience turning complex financial data into actionable insights. Currently, I'm on an exciting journey into Data Engineering, building the robust data architectures that drive strategic decision-making.
+I'm a passionate Finance and Data Analytics turning complex financial data into actionable insights. Currently, I'm on an exciting journey into Data Engineering, building the robust data architectures that drive strategic decision-making.
 
 </div>
 
